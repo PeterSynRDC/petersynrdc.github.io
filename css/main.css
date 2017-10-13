@@ -235,22 +235,20 @@ h1, h2, h3, h4, h5, h6 {
 
 #home {
     background-image: url("../img/slides/1.jpg");
-	padding-bottom: 50%;
+	padding-bottom: 40%;
 	padding-top: 0px;
 }
 
 #home .title {
-	position: absolute;
-	padding-bottom: 50%;
+	padding-top: 10%;
+	padding-bottom: 1%;
 	padding-left: 20.5%;
-	padding-top: 15%
+	padding-right: 20.5%
 }
 
 #home .title-header{
-	position: absolute;
-	padding-bottom: 70%;
-	padding-left: 32.15%;
-	padding-top: 25%;
+	padding-top: 0%;
+	padding-left: 30.5%;
 }
 
 
